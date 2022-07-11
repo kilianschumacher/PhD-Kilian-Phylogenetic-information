@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Add columns containing pyhlogenetic informations to
+  dataframe
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kilian Schumacher
+    email: kilian.schumacher@lmu.de
+    affiliation: LMU Munich
+  - given-names: Annika Krimmel
+    email: A.Krimmel@campus.lmu.de
+    affiliation: LMU Munich
+repository: >-
+  https://github.com/kilianschumacher/PhD-Kilian-Phylogenetic-information
